@@ -2,8 +2,8 @@
 
 install
 ```shell
-go get -u github.com/go-saas/uow
+go get -u github.com/jace996/uow
 ```
 
 usage
-See https://github.com/go-saas/uow/tree/main/gorm/db_test.go
+See https://github.com/jace996/uow/tree/main/gorm/db_test.go

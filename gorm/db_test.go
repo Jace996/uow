@@ -3,7 +3,7 @@ package gorm
 import (
 	"context"
 	"fmt"
-	"github.com/go-saas/uow"
+	"github.com/jace996/uow"
 	"github.com/mattn/go-sqlite3"
 	sqldblogger "github.com/simukti/sqldb-logger"
 	"github.com/stretchr/testify/assert"

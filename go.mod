@@ -1,4 +1,4 @@
-module github.com/go-saas/uow
+module github.com/jace996/uow
 
 go 1.18
 

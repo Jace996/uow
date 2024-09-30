@@ -3,7 +3,7 @@ package gorm
 import (
 	"database/sql"
 	"fmt"
-	"github.com/go-saas/uow"
+	"github.com/jace996/uow"
 	"gorm.io/gorm"
 )
 

@@ -8,8 +8,8 @@ import (
 	"github.com/go-kratos/kratos/v2/middleware/selector"
 	"github.com/go-kratos/kratos/v2/transport"
 	"github.com/go-kratos/kratos/v2/transport/http"
-	"github.com/go-saas/uow"
-	uhttp "github.com/go-saas/uow/http"
+	"github.com/jace996/uow"
+	uhttp "github.com/jace996/uow/http"
 	"strings"
 )
 

@@ -3,7 +3,7 @@ package event
 import (
 	"context"
 	"database/sql"
-	"github.com/go-saas/uow"
+	"github.com/jace996/uow"
 	"sync"
 )
 
